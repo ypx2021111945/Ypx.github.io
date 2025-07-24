@@ -6,11 +6,12 @@ He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS)
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: 2748932473[at]qq.com\
+25S003049[at]stu.hit.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+2025-至今，哈尔滨工业大学，计算机科学与技术，硕士研究生在读\
+2021-2025，哈尔滨工业大学，物联网工程，学士
 
 #### Research Interests
 Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
