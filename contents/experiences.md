@@ -1,16 +1,31 @@
-#### Submitted
+#### 相关链接
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q. Niu. LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>Rej :)</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- 2025.07，参与哈工大研支团尉犁队“向天山寄语，于大漠极目”支教分享活动. [[Link]](https://mp.weixin.qq.com/s/S_xzli-LiZ-gvy9wXP59cQ)
 
-#### Published
+- 2025.06，作为毕业生党员代表，参加计算学部“光熙像前毕业承诺”暨2025届毕业生党员出征仪式，担任光熙火炬传递者、重温入党誓词领誓人，并被授予"匠心追梦，大国重器"院旗. [[Link]](https://mp.weixin.qq.com/s/Z65KKOdM1zJ2gkfEWa7qvw)
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- 2025.04，微视频《你可以的》，根据本人亲身经历改编. [[Link]](https://mp.weixin.qq.com/s/VXXi_64xH3QOBPGpaclMAA)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- 2025.04，入选哈工大第九届春晖创新成果奖(本科生)候选人，<strong>计算学部仅2人</strong>. [[哈工大学工部]](https://mp.weixin.qq.com/s/oWc7MWBfCcbhnNmUWqyNhw)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- 2025.04，接受新华社采访，并在哈工大航天馆录制有关航天智能材料的科普讲解. [[新华网]](https://h.xinhuaxmt.com/vh512/share/12511861?d=134ff38&channel=weixin)
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- 2025.01，哈工大中长跑阳光组的发展. [[Link]](https://mp.weixin.qq.com/s/oOT9i4SzGdlLGc4UhBPkAw)
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- 2025.01，团队获首届AIGC青年大学生就业创业促进行动应用开发赛道校园组三等奖. [[Link]](https://mp.weixin.qq.com/s/XqWmgkUQHvdHCA_vk9S8aA)
+
+- 2024.12，哈工大航天馆新馆开放，负责讲解探火展区: "天问一号"等相关内容. [[Link]](https://mp.weixin.qq.com/s/dAkxIPs0f7KSUphq0E1Xxg)
+
+- 2024.12，作为校龙舟队成员，参加第三届中国C9+高校冰雪论坛暨冰上龙舟邀请赛. [[哈工大体育部]](https://mp.weixin.qq.com/s/PMBHZaGGd3EaZ-MaBRyfdA) [[哈尔滨新闻网]](https://mp.weixin.qq.com/s/coOfKyR0jAdGauXcriHp6Q)
+
+- 2024.07，担任"铸国之重器 谱计算人生"实践团学生负责人，作为实践团代表分享个人心得体会 [[Link]](https://mp.weixin.qq.com/s/rpqqORFTdbhO_9ltOZD0Ng)
+
+- 2024.04，加入哈工大中长跑阳光组，成为正式队员. [[Link]](https://mp.weixin.qq.com/s/qipc44rEOIdtqRMVyQudhQ)
+
+- 2023.12，作为校龙舟队成员，参加第二届中国C9高校冰上龙舟赛暨高山滑雪赛. [[Link]](https://mp.weixin.qq.com/s/9nhS2JHktG5FpM5eQ0WbXQ)
+
+- 2023.12，参加哈工大首届冰上龙舟体验课程及友谊赛. [[Link]](https://mp.weixin.qq.com/s/-Mv3ifUDu5ujZ3dzNFG2uw)
+
+- 2023.06，参加哈尔滨市第27届端午节龙舟比赛. 
+[[Link]](https://mp.weixin.qq.com/s/-sJ16WRMyagixnr2LFDGng)
 
