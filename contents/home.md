@@ -12,5 +12,5 @@ Email: 2748932473@qq.com\
 2021-2025，哈尔滨工业大学，物联网工程，学士
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Artificial Intelligence of Things, Space-Air-Ground Integrated Network, Cyber-Physical System.
 
