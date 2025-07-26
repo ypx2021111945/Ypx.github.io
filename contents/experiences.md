@@ -62,7 +62,7 @@
 
 - 2024.12，作为校龙舟队成员，参加第三届中国C9+高校冰雪论坛暨冰上龙舟邀请赛. [[哈工大体育部]](https://mp.weixin.qq.com/s/PMBHZaGGd3EaZ-MaBRyfdA) [[哈尔滨新闻网]](https://mp.weixin.qq.com/s/coOfKyR0jAdGauXcriHp6Q)
 
-- 2024.07，担任"铸国之重器 谱计算人生"实践团学生负责人，作为实践团代表分享个人心得体会 [[哈工大公众号]](https://mp.weixin.qq.com/s/rpqqORFTdbhO_9ltOZD0Ng)
+- 2024.07，担任"铸国之重器 谱计算人生"实践团学生负责人，作为实践团代表分享个人心得体会. [[哈工大公众号]](https://mp.weixin.qq.com/s/rpqqORFTdbhO_9ltOZD0Ng)
 
 - 2024.04，加入哈工大中长跑队阳光组，成为正式队员. [[紫丁香中长跑记录员儿]](https://mp.weixin.qq.com/s/qipc44rEOIdtqRMVyQudhQ)
 
