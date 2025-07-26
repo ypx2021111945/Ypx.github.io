@@ -1,31 +1,31 @@
 #### 相关链接
 
-- 2025.07，参与哈工大研支团尉犁队“向天山寄语，于大漠极目”支教分享活动. [[Link]](https://mp.weixin.qq.com/s/S_xzli-LiZ-gvy9wXP59cQ)
+- 2025.07，参与哈工大研支团尉犁队“向天山寄语，于大漠极目”支教分享活动. [[青春尉犁]](https://mp.weixin.qq.com/s/S_xzli-LiZ-gvy9wXP59cQ)
 
-- 2025.06，作为毕业生党员代表，参加计算学部“光熙像前毕业承诺”暨2025届毕业生党员出征仪式，担任光熙火炬传递者、重温入党誓词领誓人，并被授予"匠心追梦，大国重器"院旗. [[Link]](https://mp.weixin.qq.com/s/Z65KKOdM1zJ2gkfEWa7qvw)
+- 2025.06，作为毕业生党员代表，参加计算学部“光熙像前毕业承诺”暨2025届毕业生党员出征仪式，担任光熙火炬传递者、重温入党誓词领誓人，并被授予"匠心追梦，大国重器"院旗. [[计算学部公众号]](https://mp.weixin.qq.com/s/Z65KKOdM1zJ2gkfEWa7qvw)
 
-- 2025.04，微视频《你可以的》，根据本人亲身经历改编. [[Link]](https://mp.weixin.qq.com/s/VXXi_64xH3QOBPGpaclMAA)
+- 2025.04，微视频《你可以的》，根据本人亲身经历改编. [[计算学部公众号]](https://mp.weixin.qq.com/s/VXXi_64xH3QOBPGpaclMAA)
 
 - 2025.04，入选哈工大第九届春晖创新成果奖(本科生)候选人，<strong>计算学部仅2人</strong>. [[哈工大学工部]](https://mp.weixin.qq.com/s/oWc7MWBfCcbhnNmUWqyNhw)
 
-- 2025.04，接受新华社采访，并在哈工大航天馆录制有关航天智能材料的科普讲解. [[新华网]](https://h.xinhuaxmt.com/vh512/share/12511861?d=134ff38&channel=weixin)
+- 2025.04，接受新华社采访，并在哈工大航天馆录制有关航天智能材料的科普讲解. [[新华社]](https://h.xinhuaxmt.com/vh512/share/12511861?d=134ff38&channel=weixin)
 
-- 2025.01，哈工大中长跑阳光组的发展. [[Link]](https://mp.weixin.qq.com/s/oOT9i4SzGdlLGc4UhBPkAw)
+- 2025.01，哈工大中长跑阳光组的发展. [[紫丁香中长跑记录员儿]](https://mp.weixin.qq.com/s/oOT9i4SzGdlLGc4UhBPkAw)
 
-- 2025.01，团队获首届AIGC青年大学生就业创业促进行动应用开发赛道校园组三等奖. [[Link]](https://mp.weixin.qq.com/s/XqWmgkUQHvdHCA_vk9S8aA)
+- 2025.01，团队获首届AIGC青年大学生就业创业促进行动应用开发赛道校园组三等奖. [[计算学部公众号]](https://mp.weixin.qq.com/s/XqWmgkUQHvdHCA_vk9S8aA)
 
-- 2024.12，哈工大航天馆新馆开放，负责讲解探火展区: "天问一号"等相关内容. [[Link]](https://mp.weixin.qq.com/s/dAkxIPs0f7KSUphq0E1Xxg)
+- 2024.12，哈工大航天馆新馆开放，负责讲解探火展区: "天问一号"等相关内容. [[哈工大公众号]](https://mp.weixin.qq.com/s/dAkxIPs0f7KSUphq0E1Xxg) [[哈工大博物馆]](https://mp.weixin.qq.com/s/yF2i0SyqKCgx5sJzVX4a_A) [[极光新闻]](https://mp.weixin.qq.com/s/7vEy3zMKnptuHgwuVSlvBw)
 
 - 2024.12，作为校龙舟队成员，参加第三届中国C9+高校冰雪论坛暨冰上龙舟邀请赛. [[哈工大体育部]](https://mp.weixin.qq.com/s/PMBHZaGGd3EaZ-MaBRyfdA) [[哈尔滨新闻网]](https://mp.weixin.qq.com/s/coOfKyR0jAdGauXcriHp6Q)
 
-- 2024.07，担任"铸国之重器 谱计算人生"实践团学生负责人，作为实践团代表分享个人心得体会 [[Link]](https://mp.weixin.qq.com/s/rpqqORFTdbhO_9ltOZD0Ng)
+- 2024.07，担任"铸国之重器 谱计算人生"实践团学生负责人，作为实践团代表分享个人心得体会 [[哈工大公众号]](https://mp.weixin.qq.com/s/rpqqORFTdbhO_9ltOZD0Ng)
 
-- 2024.04，加入哈工大中长跑阳光组，成为正式队员. [[Link]](https://mp.weixin.qq.com/s/qipc44rEOIdtqRMVyQudhQ)
+- 2024.04，加入哈工大中长跑阳光组，成为正式队员. [[紫丁香中长跑记录员儿]](https://mp.weixin.qq.com/s/qipc44rEOIdtqRMVyQudhQ)
 
-- 2023.12，作为校龙舟队成员，参加第二届中国C9高校冰上龙舟赛暨高山滑雪赛. [[Link]](https://mp.weixin.qq.com/s/9nhS2JHktG5FpM5eQ0WbXQ)
+- 2023.12，作为校龙舟队成员，参加第二届中国C9高校冰上龙舟赛暨高山滑雪赛. [[体育部公众号]](https://mp.weixin.qq.com/s/9nhS2JHktG5FpM5eQ0WbXQ)
 
-- 2023.12，参加哈工大首届冰上龙舟体验课程及友谊赛. [[Link]](https://mp.weixin.qq.com/s/-Mv3ifUDu5ujZ3dzNFG2uw)
+- 2023.12，参加哈工大首届冰上龙舟体验课程及友谊赛. [[体育部公众号]](https://mp.weixin.qq.com/s/-Mv3ifUDu5ujZ3dzNFG2uw)
 
 - 2023.06，参加哈尔滨市第27届端午节龙舟比赛. 
-[[Link]](https://mp.weixin.qq.com/s/-sJ16WRMyagixnr2LFDGng)
+[[体育部公众号]](https://mp.weixin.qq.com/s/-sJ16WRMyagixnr2LFDGng)
 
