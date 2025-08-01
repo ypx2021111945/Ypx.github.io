@@ -2,7 +2,7 @@
 
 ##### (Submitted)
 
-- <strong>B. Yin</strong>, D. Li*, H. Chen, J. Liu, G. Xing, "DA-ISCC: Dynamic Adaptation for Integrated Sensing, Communication, and Computation in SAGINs." 
+- <strong>B. Yin</strong>, D. Li*, H. Chen, J. Liu, "DA-ISCC: Dynamic Adaptation for Integrated Sensing, Communication, and Computation in SAGINs." 
 
 - D. Li, <strong>B. Yin</strong>, D. Yan, J. Liu, G. Xing, Z. Li, "SAFVIN: Edge Intelligence for Satellite and Autonomous Farm Vehicle Integrated Networks." 
 
